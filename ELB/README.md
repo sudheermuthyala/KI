@@ -4,4 +4,4 @@
 - And Second one it Does continus Health checks for instances which are registred to it. in case any instance became unhealthy ELB will stop sending the traffice to instance 
 - ELB can be publice or private 
 
-### AP
+### Application Load Balancer
