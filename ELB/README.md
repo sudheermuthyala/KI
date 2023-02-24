@@ -1,2 +1,2 @@
 ## Elastic Load Balancing
-- ELB 
+- ELB it do two major thi
